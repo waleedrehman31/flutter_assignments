@@ -1,8 +1,22 @@
-# assignment3
+# Flutter_Assignment
 
-A new Flutter project.
+- Flutter Assignment from JAWAN TECH PK.
 
-## Getting Started
+## Code and ScreenShots
+Page_One:
+- [Code](https://github.com/waleedrehman31/flutter_assignments/blob/master/lib/pageOne.dart)
+- [ScreenShot](https://github.com/waleedrehman31/flutter_assignments/blob/master/Screen_Shots/PageOne.png)
+Page_Two:
+- [Code](https://github.com/waleedrehman31/flutter_assignments/blob/master/lib/pageTwo.dart)
+- [ScreenShot](https://github.com/waleedrehman31/flutter_assignments/blob/master/Screen_Shots/PageTwo.png)
+Page_Three:
+- [Code](https://github.com/waleedrehman31/flutter_assignments/blob/master/lib/pageThree.dart)
+- [ScreenShot](https://github.com/waleedrehman31/flutter_assignments/blob/master/Screen_Shots/PageThree.png)
+
+
+---
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 
